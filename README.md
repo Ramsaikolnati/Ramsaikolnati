@@ -38,5 +38,4 @@ Here are some of my key projects:
 
 ### 📫 Connect with Me:
 - LinkedIn: [linkedin.com/in/ramsaikolnati](https://linkedin.com/in/ramsaikolnati)
-- Portfolio: [Coming Soon!]
 
