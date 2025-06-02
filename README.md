@@ -13,7 +13,6 @@
 
 ### 🛠️ Tech Stack:
 ![Languages](https://skillicons.dev/icons?i=cpp,python,js,ts,html,css)
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs)
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postgres,mongodb,docker)
 
 ---
