@@ -12,8 +12,8 @@
 ---
 
 ### 🛠️ Tech Stack:
-![Languages](https://skillicons.dev/icons?i=cpp,python,js,ts,html,css)
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postgres,mongodb,docker)
+![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postgres,mongodb,docker)
 
 ---
 
