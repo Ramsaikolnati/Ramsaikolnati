@@ -4,8 +4,7 @@
 ---
 
 ### 💡 About Me:
-- 🎓 I'm a Computer Science graduate actively preparing for roles at **Microsoft** and **Google**.
-- 💼 I’m currently focused on solving the [NeetCode 150](https://neetcode.io/) and mastering **System Design**.
+- 🎓 I'm a Computer Science graduate actively preparing for full time roles.
 - 🛠️ Tech Enthusiast | Builder | Lifelong Learner.
 - 🔍 Looking to collaborate on open-source and innovative projects.
 
