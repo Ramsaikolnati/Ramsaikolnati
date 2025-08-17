@@ -20,8 +20,6 @@
 Here are some of my key projects:
 - 📊 **AlgoVisualizer** – A web app to visualize sorting/searching algorithms in real-time.
 - 🧠 **InterviewPrepTrack** – Your personal Leetcode/NeetCode tracker (WIP).
-- 🔒 **SecureAuth** – Full-stack auth system with JWT, refresh tokens, and 2FA.
-
 > View them on my [GitHub Repositories](https://github.com/Ramsaikolnati?tab=repositories)
 
 ---
