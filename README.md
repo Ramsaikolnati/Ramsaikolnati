@@ -7,7 +7,7 @@
 - 🎓 Computer Science Graduate actively preparing for full-time roles at top tech companies.
 - 🛠️ Tech Enthusiast | Builder | Lifelong Learner.
 - 🚀 Strong foundation in **Python, SQL, and System Design**, with hands-on project experience.
-- 🔍 Actively building projects in **FastAPI, Angular, React, and ML**.
+- 🔍 Actively building projects in **FastAPI,python, and ML**.
 - 💡 Interested in **Backend Development, APIs, and Scalable Systems**.
 
 ---
