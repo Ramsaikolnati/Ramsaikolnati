@@ -4,23 +4,48 @@
 ---
 
 ### 💡 About Me:
-- 🎓 I'm a Computer Science graduate actively preparing for full time roles.
+- 🎓 Computer Science Graduate actively preparing for full-time roles at top tech companies.
 - 🛠️ Tech Enthusiast | Builder | Lifelong Learner.
-- 🔍 Looking to collaborate on open-source and innovative projects.
+- 🚀 Strong foundation in **Python, SQL, and System Design**, with hands-on project experience.
+- 🔍 Actively building projects in **FastAPI, Angular, React, and ML**.
+- 💡 Interested in **Backend Development, APIs, and Scalable Systems**.
 
 ---
 
 ### 🛠️ Tech Stack:
-![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css)
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postgres,mongodb,docker)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+  <br/>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,opencv" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+  <br/>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,azure" />
+</p>
 
 ---
 
-### 🚀 Projects:
-Here are some of my key projects:
-- 📊 **AlgoVisualizer** – A web app to visualize sorting/searching algorithms in real-time.
-- 🧠 **InterviewPrepTrack** – Your personal Leetcode/NeetCode tracker (WIP).
-> View them on my [GitHub Repositories](https://github.com/Ramsaikolnati?tab=repositories)
+### 🚀 Featured Projects:
+Here are some of my key projects (all available on my [GitHub Repositories](https://github.com/Ramsaikolnati?tab=repositories)):
+
+- ⚡ **Async Task Manager API**  
+  - Built using **FastAPI + PostgreSQL + JWT Auth + Docker**  
+  - Features: async task execution, multi-user access, Swagger docs, containerized deployment.  
+  - Learned: clean API design, async vs sync difference, scalable backend setup.
+
+- 📰 **Fake News Detection ML**  
+  - ML model to classify fake vs real news with **93% accuracy**.  
+  - Stack: Python, Pandas, scikit-learn, NLP preprocessing.  
+  - Learned: feature engineering, model building, evaluation.
+
+- 👁️ **Real-Time Object Detection (OpenCV)**  
+  - Implemented object detection using **OpenCV + Python**.  
+  - Use case: detect objects in real-time from webcam.  
+  - Learned: computer vision basics, frame-by-frame analysis.
 
 ---
 
@@ -34,4 +59,3 @@ Here are some of my key projects:
 
 ### 📫 Connect with Me:
 - LinkedIn: [linkedin.com/in/ramsaikolnati](https://linkedin.com/in/ramsaikolnati)
-
