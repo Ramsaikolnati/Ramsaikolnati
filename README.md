@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
   <br/>
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,azure,kubernetes" />
 </p>
 
 ---
