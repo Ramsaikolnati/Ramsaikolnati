@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi,flask,opencv" />
   <br/>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,sql" />
   <br/>
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,azure,kubernetes" />
