@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramsai Kolnati</h1>
-<h3 align="center">Software Engineer | Python Backend Developer | Passionate about DSA, System Design & Full-Stack Development | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Developement Engineer | Python Backend Developer | Passionate about DSA, System Design & Full-Stack Development | Machine Learning Enthusiast</h3>
 
 ---
 
