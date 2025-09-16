@@ -8,7 +8,7 @@
 - 🛠️ Tech Enthusiast | Lifelong Learner.
 - 🚀 Strong foundation in **Python, SQL, and System Design**, with hands-on project experience.
 - 🔍 Actively building projects in **FastAPI, Python, and ML**.
-- 💡 Interested in **Backend Development, APIs, and Scalable Systems**.
+- 💡 Interested in **Backend Development, APIs, and Scalable Systems**.Interested in testing as well.
 - 🌐 Explore my portfolio here: [**My Portfolio Website**](https://ramsai-kolnati-portfolio.lovable.app/)
 
 ---
