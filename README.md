@@ -7,8 +7,9 @@
 - 🎓 Computer Science Graduate actively preparing for full-time roles at top tech companies.
 - 🛠️ Tech Enthusiast | Lifelong Learner.
 - 🚀 Strong foundation in **Python, SQL, and System Design**, with hands-on project experience.
-- 🔍 Actively building projects in **FastAPI,python, and ML**.
+- 🔍 Actively building projects in **FastAPI, Python, and ML**.
 - 💡 Interested in **Backend Development, APIs, and Scalable Systems**.
+- 🌐 Explore my portfolio here: [**My Portfolio Website**](https://ramsai-kolnati-portfolio.lovable.app/)
 
 ---
 
@@ -58,4 +59,6 @@ Here are some of my key projects (all available on my [GitHub Repositories](http
 ---
 
 ### 📫 Connect with Me:
+- 🌐 Portfolio: [ramsai-kolnati-portfolio.lovable.app](https://ramsai-kolnati-portfolio.lovable.app/)  
 - LinkedIn: [linkedin.com/in/ramsaikolnati](https://linkedin.com/in/ramsaikolnati)
+
