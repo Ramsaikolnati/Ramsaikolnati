@@ -45,7 +45,7 @@ Here are some of my key projects (all available on my [GitHub Repositories](http
 
 - 👁️ **Real-Time Object Detection (OpenCV)**  
   - Implemented object detection using **OpenCV + Python**.  
-  - Use case: detect objects in real-time from webcam.  
+  - Use case: detect objects in real-time from webcam using SSD MobileNet Architecture and YOLO.  
   - Learned: computer vision basics, frame-by-frame analysis.
 
 ---
