@@ -8,7 +8,7 @@ DSA • System Design • Full-Stack • Machine Learning
 <p align="center">
   <a href="https://linkedin.com/in/ramsaikolnati">LinkedIn</a> •
   <a href="https://ramsai-kolnati-portfolio.lovable.app/">Portfolio</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:ramsaikolnati304@gmail.com">Email</a>
 </p>
 
 ---
@@ -113,7 +113,7 @@ DSA • System Design • Full-Stack • Machine Learning
 
 - 🌐 Portfolio: https://ramsai-kolnati-portfolio.lovable.app/
 - 💼 LinkedIn: https://linkedin.com/in/ramsaikolnati
-- 📧 Email: your-email@example.com
+- 📧 Email: ramsaikolnati304@gmail.com
 
 ---
 
